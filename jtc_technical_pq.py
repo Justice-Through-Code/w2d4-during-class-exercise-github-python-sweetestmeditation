@@ -1,10 +1,13 @@
 # jtc_technical_pq.py
 
 def jtc_technical():
-    #print()
-    pass
-    
-jtc_technical()
+    # Step 1
+    # Line 3
+    # Delete the uncomment Line 4
+    # Modify Line 4 so it prints Hello World?
+    print("Hello World?")  # Modified to print "Hello World?"
+
+jtc_technical()  # This calls the function
 
 '''
 Step 1
